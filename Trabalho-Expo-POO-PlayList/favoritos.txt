@@ -1,1 +1,3 @@
-5e8c90ec6a21628db469ebefba564c57f543cad151197236f6e99d21bb511dc9|Master of Puppets Remastered|Metallica|audios\Master-of-Puppets-_Remastered_.wav
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2bd58a37da6b30515555b3d6963c9d0e2bb1c4811adefa91ba5c6e1d3d41acf
+size 147
